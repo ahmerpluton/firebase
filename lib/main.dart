@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Github Portfolio Test sd',
+      title: 'Ahmer Khan',
       home: const MainScreen(),
     );
   }
@@ -24,7 +24,7 @@ class _MainScreenState extends State<MainScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Github portfolio test"),
+        title: Text("Ahmer Portfolio Images Test"),
       ),
       body: Center(
         child: Column(
